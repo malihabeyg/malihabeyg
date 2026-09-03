@@ -1,24 +1,105 @@
+<div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malihabaig23@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,100:BDB2FF&height=200&section=header&text=Hi,%20I'm%20Maliha!%20✨&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=welcome%20to%20my%20little%20corner%20of%20code%20🎀&descAlignY=55&descSize=18&descColor=000000"/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=malihabeyg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=malihabeyg&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=malihabeyg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=22&duration=2500&pause=800&color=C6A2FF&center=true&vCenter=true&width=550&lines=full+stack+developer+%F0%9F%92%BB" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=malihabeyg&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=malihabeyg&limit=5&theme=vue&combine_all_yearly_contributions=true)
+## 🎀 ‧₊˚ a bit about me ˚₊‧
+
+- 💗 I build things for web & mobile — mostly with **Flutter**, **Kotlin**, and **React**
+- 🌷 I love clean UI, pastel color palettes, and pretty code
+- 🍓 Always learning something new, one commit at a time
+- ✉️ Let's connect below!
+
+<br/>
+
+## 🌸 ‧₊˚ find me here ˚₊‧
+
+<div align="center">
+
+<a href="mailto:malihabaig23@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FADADD?style=for-the-badge&logo=gmail&logoColor=D14836" alt="gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/maliha-baig-a050b630a/">
+  <img src="https://img.shields.io/badge/LinkedIn-D6C7FF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin"/>
+</a>
+<a href="https://github.com/malihabeyg">
+  <img src="https://img.shields.io/badge/GitHub-FFE5EC?style=for-the-badge&logo=github&logoColor=333333" alt="github"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=malihabeyg&icon=4&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 ‧₊˚ my toolkit ˚₊‧
+
+<div align="center">
+
+<img height="40" src="https://img.shields.io/badge/css3-%23FFB6C1.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/kotlin-%23C6A2FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/dart-%23AEE1F9.svg?style=for-the-badge&logo=dart&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/c++-%23FFD1DC.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/c-%23C6A2FF.svg?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img height="40" src="https://img.shields.io/badge/typescript-%23AEE1F9.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/python-%23FFD1DC.svg?style=for-the-badge&logo=python&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/javascript-%23FFF3B0.svg?style=for-the-badge&logo=javascript&logoColor=%23333"/> <img height="40" src="https://img.shields.io/badge/html5-%23FFB6C1.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/java-%23C6A2FF.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img height="40" src="https://img.shields.io/badge/Flutter-%23AEE1F9.svg?style=for-the-badge&logo=Flutter&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/node.js-%23FFD1DC.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/NPM-%23FFB6C1.svg?style=for-the-badge&logo=npm&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/javafx-%23C6A2FF.svg?style=for-the-badge&logo=javafx&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/vite-%23AEE1F9.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<img height="40" src="https://img.shields.io/badge/chart.js-%23FFD1DC.svg?style=for-the-badge&logo=chart.js&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/bootstrap-%23C6A2FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/Render-%23AEE1F9.svg?style=for-the-badge&logo=render&logoColor=333"/> <img height="40" src="https://img.shields.io/badge/netlify-%23FFD1DC.svg?style=for-the-badge&logo=netlify&logoColor=333"/>
+
+<img height="40" src="https://img.shields.io/badge/vercel-%23FFB6C1.svg?style=for-the-badge&logo=vercel&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/react-%23C6A2FF.svg?style=for-the-badge&logo=react&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/react_native-%23AEE1F9.svg?style=for-the-badge&logo=react&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/-React%20Query-FFD1DC?style=for-the-badge&logo=react%20query&logoColor=333"/>
+
+<img height="40" src="https://img.shields.io/badge/React_Router-FFB6C1?style=for-the-badge&logo=react-router&logoColor=333"/> <img height="40" src="https://img.shields.io/badge/React%20Hook%20Form-%23C6A2FF.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/tailwindcss-%23AEE1F9.svg?style=for-the-badge&logo=tailwind-css&logoColor=333"/>
+
+<img height="40" src="https://img.shields.io/badge/Apache%20Maven-FFD1DC?style=for-the-badge&logo=Apache%20Maven&logoColor=333"/> <img height="40" src="https://img.shields.io/badge/apache-%23FFB6C1.svg?style=for-the-badge&logo=apache&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/sqlite-%23C6A2FF.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img height="40" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-AEE1F9?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=333"/> <img height="40" src="https://img.shields.io/badge/MongoDB-%23FFD1DC.svg?style=for-the-badge&logo=mongodb&logoColor=333"/> <img height="40" src="https://img.shields.io/badge/mysql-FFB6C1.svg?style=for-the-badge&logo=mysql&logoColor=333"/>
+
+<img height="40" src="https://img.shields.io/badge/figma-%23C6A2FF.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/Canva-%23AEE1F9.svg?style=for-the-badge&logo=Canva&logoColor=333"/> <img height="40" src="https://img.shields.io/badge/git-%23FFD1DC.svg?style=for-the-badge&logo=git&logoColor=333"/>
+
+<img height="40" src="https://img.shields.io/badge/github-%23FFB6C1.svg?style=for-the-badge&logo=github&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/gitlab-%23C6A2FF.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/-playwright-%23AEE1F9?style=for-the-badge&logo=playwright&logoColor=333"/>
+
+<img height="40" src="https://img.shields.io/badge/Meta-%23FFD1DC.svg?style=for-the-badge&logo=Meta&logoColor=333"/> <img height="40" src="https://img.shields.io/badge/Postman-FFB6C1?style=for-the-badge&logo=postman&logoColor=333"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 ‧₊˚ my stats ˚₊‧
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=malihabeyg&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD1DC&icon_color=C6A2FF&text_color=ffffff&bg_color=1a1a2e"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=malihabeyg&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FFD1DC&text_color=ffffff&bg_color=1a1a2e"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=malihabeyg&theme=tokyonight&hide_border=true&background=1a1a2e&ring=C6A2FF&fire=FFD1DC&currStreakLabel=FFD1DC" alt="streak stats"/>
+</div>
+
+<br/>
+
+---
+
+## 💌 ‧₊˚ quote of the day ˚₊‧
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=malihabeyg&icon=heart&color=ffb6c1&style=for-the-badge" alt="profile views"/>
+  </a>
+
+  <br/><br/>
+  <sub>thanks for stopping by! 🎀✨</sub>
+</div>
